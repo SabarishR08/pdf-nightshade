@@ -3,11 +3,11 @@
 ![License](https://img.shields.io/badge/license-MIT-green) ![Language](https://img.shields.io/badge/language-Python-informational)
 
 
-## 📌 Overview
+## Overview
 
 PDF Dark Mode Converter — Streamlit app that inverts PDF colors for comfortable night-time reading, built on PyMuPDF
 
-## 🏗️ Architecture
+## Architecture
 
 ```text
 Browser / UI
@@ -16,12 +16,12 @@ Browser / UI
 Streamlit app  (single process: UI + Python logic)
 ```
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - **Language:** Python
 - **Backend:** Streamlit
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -56,11 +56,11 @@ Then open the URL printed in the terminal (default http://localhost:8501).
 ![License](https://img.shields.io/badge/license-MIT-green) ![Language](https://img.shields.io/badge/language-Python-informational)
 
 
-## 📌 Overview
+## Overview
 
 PDF Dark Mode Converter — Streamlit app that inverts PDF colors for comfortable night-time reading, built on PyMuPDF
 
-## 🏗️ Architecture
+## Architecture
 
 ```text
 Browser / UI
@@ -69,12 +69,12 @@ Browser / UI
 Streamlit app  (single process: UI + Python logic)
 ```
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - **Language:** Python
 - **Backend:** Streamlit
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -103,7 +103,7 @@ streamlit run app.py
 
 Then open the URL printed in the terminal (default http://localhost:8501).
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 pdf-dark/
@@ -112,12 +112,12 @@ pdf-dark/
 ├── requirements.txt
 ```
 
-## 📄 License
+## License
 
 [MIT](LICENSE) — © 2026 Sabarish R.
 
 ---
 
-## 📄 License
+## License
 
 [MIT](LICENSE) — © 2026 Sabarish R.

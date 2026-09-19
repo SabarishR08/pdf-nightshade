@@ -2,9 +2,9 @@ import streamlit as st
 import fitz  # PyMuPDF
 import io
 
-st.set_page_config(page_title="PDF Dark Mode Converter", layout="centered")
+st.set_page_config(page_title="PDF Nightshade", layout="centered")
 
-st.title("🌙 PDF Dark Mode Converter")
+st.title("🌙 PDF Nightshade")
 st.write("Upload a PDF to invert its colors for easier night reading.")
 
 uploaded_file = st.file_uploader("Choose a PDF file", type="pdf")

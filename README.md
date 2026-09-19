@@ -1,4 +1,4 @@
-# Pdf Dark
+# PDF Nightshade
 
 ![License](https://img.shields.io/badge/license-MIT-green) ![Language](https://img.shields.io/badge/language-Python-informational)
 
@@ -30,8 +30,8 @@ Streamlit app  (single process: UI + Python logic)
 ### 1. Clone
 
 ```bash
-git clone https://github.com/SabarishR08/pdf-dark.git
-cd pdf-dark
+git clone https://github.com/SabarishR08/pdf-nightshade.git
+cd pdf-nightshade
 ```
 
 ### 2. Install dependencies
@@ -83,8 +83,8 @@ Streamlit app  (single process: UI + Python logic)
 ### 1. Clone
 
 ```bash
-git clone https://github.com/SabarishR08/pdf-dark.git
-cd pdf-dark
+git clone https://github.com/SabarishR08/pdf-nightshade.git
+cd pdf-nightshade
 ```
 
 ### 2. Install dependencies
@@ -106,7 +106,7 @@ Then open the URL printed in the terminal (default http://localhost:8501).
 ## Project Structure
 
 ```text
-pdf-dark/
+pdf-nightshade/
 ├── README.md
 ├── app.py
 ├── requirements.txt

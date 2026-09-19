@@ -5,7 +5,7 @@
 
 ## Overview
 
-PDF Dark Mode Converter — Streamlit app that inverts PDF colors for comfortable night-time reading, built on PyMuPDF
+PDF Nightshade — Streamlit app that inverts PDF colors for comfortable night-time reading, built on PyMuPDF
 
 ## Architecture
 
@@ -58,7 +58,7 @@ Then open the URL printed in the terminal (default http://localhost:8501).
 
 ## Overview
 
-PDF Dark Mode Converter — Streamlit app that inverts PDF colors for comfortable night-time reading, built on PyMuPDF
+PDF Nightshade — Streamlit app that inverts PDF colors for comfortable night-time reading, built on PyMuPDF
 
 ## Architecture
 
